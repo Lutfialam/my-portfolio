@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https/lutfialam.github.io/my-portfolio/static/css/main.584f321a.chunk.css",
+    "main.js": "https/lutfialam.github.io/my-portfolio/static/js/main.20a2bfc6.chunk.js",
+    "main.js.map": "https/lutfialam.github.io/my-portfolio/static/js/main.20a2bfc6.chunk.js.map",
+    "runtime-main.js": "https/lutfialam.github.io/my-portfolio/static/js/runtime-main.6a12b5d7.js",
+    "runtime-main.js.map": "https/lutfialam.github.io/my-portfolio/static/js/runtime-main.6a12b5d7.js.map",
+    "static/js/2.a707543d.chunk.js": "https/lutfialam.github.io/my-portfolio/static/js/2.a707543d.chunk.js",
+    "static/js/2.a707543d.chunk.js.map": "https/lutfialam.github.io/my-portfolio/static/js/2.a707543d.chunk.js.map",
+    "index.html": "https/lutfialam.github.io/my-portfolio/index.html",
+    "precache-manifest.e99ef70ef39fc83277c692924776ac3c.js": "https/lutfialam.github.io/my-portfolio/precache-manifest.e99ef70ef39fc83277c692924776ac3c.js",
+    "service-worker.js": "https/lutfialam.github.io/my-portfolio/service-worker.js",
+    "static/css/main.584f321a.chunk.css.map": "https/lutfialam.github.io/my-portfolio/static/css/main.584f321a.chunk.css.map",
+    "static/js/2.a707543d.chunk.js.LICENSE": "https/lutfialam.github.io/my-portfolio/static/js/2.a707543d.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a12b5d7.js",
+    "static/js/2.a707543d.chunk.js",
+    "static/css/main.584f321a.chunk.css",
+    "static/js/main.20a2bfc6.chunk.js"
+  ]
+}
